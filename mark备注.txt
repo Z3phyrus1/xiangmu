@@ -1,0 +1,11 @@
+| 事件 | 左 | 右 |
+| 点任务开始 | 11 | 12 |
+| 线任务开始 | 21 | 22 |
+| 按键响应 | 1 | 2 |
+
+
+- `launcher.m`
+ - `marker.enabled`：总开关（true/false）
+
+- `functions/runTrials.m`。
+  - 如需“练习不打 marker”，可在调用处去掉 `marker` 参数，或传入 `marker.enabled=false` 的副本
