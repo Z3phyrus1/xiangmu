@@ -1,0 +1,50 @@
+﻿subject,task,status,n_files,detail
+sub18,task1,skip_file_epochs_gt_behavior,4,"clean_epochs_task1_ICA_sub18_clr1_sess3-epo.fif | epochs=300, beh=150"
+sub18,task1,skip_file_epochs_gt_behavior,4,"clean_epochs_task1_ICA_sub18_clr1_sess4-epo.fif | epochs=300, beh=150"
+sub18,task1,ok_file,4,"clean_epochs_task1_ICA_sub18_clr1_sess1-epo.fif | epochs=150, beh=300, sess=3"
+sub18,task1,ok_file,4,"clean_epochs_task1_ICA_sub18_clr1_sess2-epo.fif | epochs=150, beh=300, sess=4"
+sub18,task1,ok_subject,4,ok_files=2
+sub19,task1,skip_file_epochs_gt_behavior,4,"clean_epochs_task1_ICA_sub19_llx1_sess3-epo.fif | epochs=300, beh=150"
+sub19,task1,skip_file_epochs_gt_behavior,4,"clean_epochs_task1_ICA_sub19_llx1_sess4-epo.fif | epochs=300, beh=150"
+sub19,task1,ok_file,4,"clean_epochs_task1_ICA_sub19_llx1_sess1-epo.fif | epochs=150, beh=300, sess=3"
+sub19,task1,ok_file,4,"clean_epochs_task1_ICA_sub19_llx1_sess2-epo.fif | epochs=150, beh=300, sess=4"
+sub19,task1,ok_subject,4,ok_files=2
+sub20,task1,skip_file_epochs_gt_behavior,4,"clean_epochs_task1_ICA_sub20_pyb1_sess3-epo.fif | epochs=300, beh=150"
+sub20,task1,skip_file_epochs_gt_behavior,4,"clean_epochs_task1_ICA_sub20_pyb1_sess4-epo.fif | epochs=300, beh=150"
+sub20,task1,ok_file,4,"clean_epochs_task1_ICA_sub20_pyb1_sess1-epo.fif | epochs=150, beh=300, sess=3"
+sub20,task1,ok_file,4,"clean_epochs_task1_ICA_sub20_pyb1_sess2-epo.fif | epochs=150, beh=300, sess=4"
+sub20,task1,ok_subject,4,ok_files=2
+sub21,task1,skip_file_epochs_gt_behavior,4,"clean_epochs_task1_ICA_sub21_zfy1_sess3-epo.fif | epochs=300, beh=150"
+sub21,task1,skip_file_epochs_gt_behavior,4,"clean_epochs_task1_ICA_sub21_zfy1_sess4-epo.fif | epochs=300, beh=150"
+sub21,task1,ok_file,4,"clean_epochs_task1_ICA_sub21_zfy1_sess1-epo.fif | epochs=150, beh=300, sess=3"
+sub21,task1,ok_file,4,"clean_epochs_task1_ICA_sub21_zfy1_sess2-epo.fif | epochs=150, beh=300, sess=4"
+sub21,task1,ok_subject,4,ok_files=2
+sub22,task1,ok_file,4,"clean_epochs_task1_ICA_sub22_zzy1_sess1-epo.fif | epochs=150, beh=150, sess=1"
+sub22,task1,ok_file,4,"clean_epochs_task1_ICA_sub22_zzy1_sess2-epo.fif | epochs=150, beh=150, sess=2"
+sub22,task1,ok_file,4,"clean_epochs_task1_ICA_sub22_zzy1_sess3-epo.fif | epochs=300, beh=300, sess=3"
+sub22,task1,ok_file,4,"clean_epochs_task1_ICA_sub22_zzy1_sess4-epo.fif | epochs=300, beh=300, sess=4"
+sub22,task1,ok_subject,4,ok_files=4
+sub24,task1,ok_file,3,"clean_epochs_task1_ICA_sub24_czy1_sess1-epo.fif | epochs=150, beh=150, sess=2"
+sub24,task1,ok_file,3,"clean_epochs_task1_ICA_sub24_czy1_sess2-epo.fif | epochs=150, beh=300, sess=3"
+sub24,task1,ok_file,3,"clean_epochs_task1_ICA_sub24_czy1_sess3-epo.fif | epochs=300, beh=300, sess=4"
+sub24,task1,ok_subject,3,ok_files=3
+sub25,task1,skip_file_epochs_gt_behavior,4,"clean_epochs_task1_ICA_sub25_cjb1_sess3-epo.fif | epochs=300, beh=150"
+sub25,task1,skip_file_epochs_gt_behavior,4,"clean_epochs_task1_ICA_sub25_cjb1_sess4-epo.fif | epochs=300, beh=150"
+sub25,task1,ok_file,4,"clean_epochs_task1_ICA_sub25_cjb1_sess1-epo.fif | epochs=150, beh=300, sess=3"
+sub25,task1,ok_file,4,"clean_epochs_task1_ICA_sub25_cjb1_sess2-epo.fif | epochs=150, beh=300, sess=4"
+sub25,task1,ok_subject,4,ok_files=2
+sub26,task1,skip_file_epochs_gt_behavior,4,"clean_epochs_task1_ICA_sub26_pzq1_sess3-epo.fif | epochs=300, beh=150"
+sub26,task1,skip_file_epochs_gt_behavior,4,"clean_epochs_task1_ICA_sub26_pzq1_sess4-epo.fif | epochs=300, beh=150"
+sub26,task1,ok_file,4,"clean_epochs_task1_ICA_sub26_pzq1_sess1-epo.fif | epochs=150, beh=300, sess=3"
+sub26,task1,ok_file,4,"clean_epochs_task1_ICA_sub26_pzq1_sess2-epo.fif | epochs=150, beh=300, sess=4"
+sub26,task1,ok_subject,4,ok_files=2
+sub27,task1,skip_file_epochs_gt_behavior,4,"clean_epochs_task1_ICA_sub27_lyj1_sess3-epo.fif | epochs=300, beh=150"
+sub27,task1,skip_file_epochs_gt_behavior,4,"clean_epochs_task1_ICA_sub27_lyj1_sess4-epo.fif | epochs=300, beh=150"
+sub27,task1,ok_file,4,"clean_epochs_task1_ICA_sub27_lyj1_sess1-epo.fif | epochs=150, beh=300, sess=3"
+sub27,task1,ok_file,4,"clean_epochs_task1_ICA_sub27_lyj1_sess2-epo.fif | epochs=150, beh=300, sess=4"
+sub27,task1,ok_subject,4,ok_files=2
+sub28,task1,ok_file,4,"clean_epochs_task1_ICA_sub28_hbf1_sess1-epo.fif | epochs=150, beh=150, sess=1"
+sub28,task1,ok_file,4,"clean_epochs_task1_ICA_sub28_hbf1_sess2-epo.fif | epochs=150, beh=150, sess=2"
+sub28,task1,ok_file,4,"clean_epochs_task1_ICA_sub28_hbf1_sess3-epo.fif | epochs=300, beh=300, sess=3"
+sub28,task1,ok_file,4,"clean_epochs_task1_ICA_sub28_hbf1_sess4-epo.fif | epochs=300, beh=300, sess=4"
+sub28,task1,ok_subject,4,ok_files=4

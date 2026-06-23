@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "D:\xiangmu\scripts\py\1.preprocessing\run_after_sub48_queue.py", line 144, in <module>
+    main()
+  File "D:\xiangmu\scripts\py\1.preprocessing\run_after_sub48_queue.py", line 138, in main
+    run_subject(subject)
+  File "D:\xiangmu\scripts\py\1.preprocessing\run_after_sub48_queue.py", line 128, in run_subject
+    raise RuntimeError(f"{subject} failed with exit code {result.returncode}; see {log_path}")
+RuntimeError: sub50 failed with exit code 1; see D:\xiangmu\logs\preprocessing_queue\20260614_135934_sub50.log

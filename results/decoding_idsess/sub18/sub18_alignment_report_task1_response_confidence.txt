@@ -1,0 +1,30 @@
+
+================ ALIGNMENT REPORT ================
+subject = sub18
+behavior id_sess = ['18cl03', '18cl04']
+EEG sessions kept = ['sess3', 'sess4']
+
+[EEG files used] Task1 Stim:
+  clean_epochs_task1_ICA_sub18_clr1_sess3-epo.fif
+  clean_epochs_task1_ICA_sub18_clr1_sess4-epo.fif
+
+[EEG files used] Task1 Response:
+  clean_epochs_response1_ICA_sub18_clr1_sess3-epo.fif
+  clean_epochs_response1_ICA_sub18_clr1_sess4-epo.fif
+
+[Counts after reading]
+  Task1 Stim epochs:     600
+  Task1 Response epochs: 600
+  Behavior rows:         600
+
+[Selection check: Task1 Stim vs Task1 Response]
+  first 20 Task1 Stim selection = [  1   7  13  19  25  31  37  43  49  55  61  67  73  79  85  91  97 103
+ 109 115]
+  first 20 Task1 Response selection = [ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19]
+  last 20 Task1 Stim selection = [3482 3488 3494 3500 3506 3512 3518 3524 3530 3536 3542 3548 3554 3560
+ 3566 3572 3578 3584 3590 3596]
+  last 20 Task1 Response selection = 580
+  注意：Task1 Stim selection 可能呈现 6 的间隔，这通常反映 marker 结构，不一定表示 trial 丢失。
+
+FINAL CHECK: OK. EEG and behavior lengths are equal.
+================ END ALIGNMENT REPORT ================

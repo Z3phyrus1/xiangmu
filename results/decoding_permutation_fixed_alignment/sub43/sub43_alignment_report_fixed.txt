@@ -1,0 +1,35 @@
+
+================ ALIGNMENT REPORT ================
+subject = sub43
+keep EEG sessions = ['sess3', 'sess4']
+behavior sessions = ['43gz03', '43gz04']
+
+[EEG files used] Task1 Stim:
+  clean_epochs_task1_ICA_sub43_gzd1_sess3-epo.fif
+  clean_epochs_task1_ICA_sub43_gzd1_sess4-epo.fif
+
+[EEG files used] Task1 Response:
+  clean_epochs_response1_ICA_sub43_gzd1_sess3-epo.fif
+  clean_epochs_response1_ICA_sub43_gzd1_sess4-epo.fif
+
+[EEG files used] Task2 Stimulus:
+  clean_epochs_task2_ICA_sub43_gzd1_sess3-epo.fif
+  clean_epochs_task2_ICA_sub43_gzd1_sess4-epo.fif
+
+[Counts after filtering and reading]
+  Task1 Stim epochs:     600
+  Task1 Response epochs: 600
+  Task2 Stim epochs:     600
+  Behavior rows:         600
+
+[Selection check: Task1 Response vs Task2 Stimulus]
+  selections identical? True
+  first 20 Task1 Resp selection = [ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19]
+  first 20 Task2 Stim selection = [ 0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19]
+  last 20 Task1 Resp selection = [580 581 582 583 584 585 586 587 588 589 590 591 592 593 594 595 596 597
+ 598 599]
+  last 20 Task2 Stim selection = [580 581 582 583 584 585 586 587 588 589 590 591 592 593 594 595 596 597
+ 598 599]
+
+FINAL CHECK: OK. EEG and behavior lengths are equal.
+================ END ALIGNMENT REPORT ================

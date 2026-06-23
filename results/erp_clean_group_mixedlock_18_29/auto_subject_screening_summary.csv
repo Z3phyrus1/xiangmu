@@ -1,0 +1,2 @@
+﻿kept_subjects,n_kept,sub_id_min,sub_id_max,task1_pattern,task2_pattern,analysis_note
+"sub18,sub19,sub20,sub21,sub22,sub24,sub25,sub26,sub27,sub28",10,18,29,clean_epochs_response1_ICA_*.fif,clean_epochs_task2_ICA_*.fif,mixed_lock_mode_task1_response_task2_task

@@ -1,0 +1,9 @@
+﻿subject,status,message,n_trials,n_correct_task1,n_correct_task2,t1_all_status,t1_correct_status,t2_all_status,t2_correct_status,behavior_sessions,eeg_sessions
+sub18,done,success,600.0,502.0,565.0,done,done,done,done,"18cl03,18cl04","sess3,sess4"
+sub19,done,success,600.0,492.0,538.0,done,done,done,done,"19ll03,19ll04","sess3,sess4"
+sub20,done,success,600.0,499.0,552.0,done,done,done,done,"20py03,20py04","sess3,sess4"
+sub21,done,success,600.0,467.0,472.0,done,done,done,done,"21zf03,21zf04","sess3,sess4"
+sub22,done,success,600.0,474.0,475.0,done,done,done,done,"22zz03,22zz04","sess3,sess4"
+sub25,failed,RuntimeError('行为表中未找到 id=25 的数据。'),,,,,,,,,
+sub26,done,success,600.0,536.0,565.0,done,done,done,done,"26pz03,26pz04","sess3,sess4"
+sub28,failed,RuntimeError('行为表中未找到 id=28 的数据。'),,,,,,,,,

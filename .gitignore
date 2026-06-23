@@ -1,20 +1,9 @@
-# Large raw data and derived datasets
-data/
-results/
-figures/
-logs/
-因问题被放弃的被试/
-
-# Analysis artifacts
-*.rds
-*.RData
-*.mat
-*.npz
-*.fif
+# Large raw EEG data excluded from GitHub
+data/clean_EEG/
+data/eeg/
 *.eeg
+*.fif
 *.set
-*.xlsx
-scripts/py/3.decoding/*.png
 
 # Python cache / generated files
 __pycache__/
